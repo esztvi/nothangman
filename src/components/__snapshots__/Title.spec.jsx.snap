@@ -1,0 +1,48 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Word should render the component 1`] = `
+<styled.section
+  className="Word"
+>
+  <styled.ul
+    key="0"
+  >
+    <li
+      className="WordLetter"
+      data-red="true"
+      key="0"
+    >
+      <span
+        className=""
+      >
+        y
+      </span>
+    </li>
+    <li
+      className="WordLetter"
+      data-red="false"
+      key="1"
+    >
+      <span
+        className="visible"
+      >
+        a
+      </span>
+    </li>
+    <li
+      className="WordLetter"
+      data-red="true"
+      key="2"
+    >
+      <span
+        className=""
+      >
+        y
+      </span>
+    </li>
+    <li>
+       
+    </li>
+  </styled.ul>
+</styled.section>
+`;
